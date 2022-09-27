@@ -1,19 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0x0324dEE5cDf96DB06aa3424bC44a3397C0F7e261",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0324dEE5cDf96DB06aa3424bC44a3397C0F7e261",
+  "CONTRACT_ADDRESS": "0x3c085282f29aF1989f7fa1f4edfbbc17686A56B7",
+  "SCAN_LINK": "https://etherscan.io/address/0x3c085282f29af1989f7fa1f4edfbbc17686a56b7",
   "NETWORK": {
-    "NAME": "ETH",
-    "SYMBOL": "Rinkeby Ether",
-    "ID": 4
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "BoredPixelApes",
-  "SYMBOL": "BPA",
+  "NFT_NAME": "PepePunkYC",
+  "SYMBOL": "PPYC",
   "MAX_SUPPLY": 4999,
   "WEI_COST": 300000000000000,
   "DISPLAY_COST": 0.0003,
-   "GAS_LIMIT": true,
+   "GAS_LIMIT": 95000,
  
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-girl-star-club",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pepepunkyc,
   "SHOW_BACKGROUND": true
 }
