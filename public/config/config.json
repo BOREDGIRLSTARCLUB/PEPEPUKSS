@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0324dEE5cDf96DB06aa3424bC44a3397C0F7e261",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0324dEE5cDf96DB06aa3424bC44a3397C0F7e261",
+  "NETWORK": {
+    "NAME": "ETH",
+    "SYMBOL": "Rinkeby Ether",
+    "ID": 4
+  },
+  "NFT_NAME": "BoredPixelApes",
+  "SYMBOL": "BPA",
+  "MAX_SUPPLY": 4999,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.0003,
+  "GAS_LIMIT": 160000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-girl-star-club",
+  "SHOW_BACKGROUND": true
+}
